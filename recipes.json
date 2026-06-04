@@ -10,17 +10,6 @@
       ],
       "id": "dish_1780561349798_0m9on3drk",
       "createTime": 1780561349799
-    },
-    {
-      "name": "猪肉堡",
-      "ingredients": [
-        "猪肉"
-      ],
-      "steps": [
-        "包起来"
-      ],
-      "id": "dish_1780562309176_vy1ay69bi",
-      "createTime": 1780562309176
     }
   ]
 }
